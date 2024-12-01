@@ -1,1 +1,1 @@
-# pump-fun-clone-moralis
+# get ur own keys
